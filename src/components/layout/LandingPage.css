@@ -103,6 +103,13 @@
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
+.tech-note {
+  margin-top: 2.5rem;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+  font-style: italic;
+}
+
 @media (max-width: 768px) {
   .landing-page {
     padding: 1rem;
