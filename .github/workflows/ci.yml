@@ -3,7 +3,7 @@ name: CI - Build Check
 on:
   pull_request:
     branches:
-      - main   # runs when a PR targets main
+      - main
 
 jobs:
   build:
