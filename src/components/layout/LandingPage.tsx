@@ -35,6 +35,9 @@ const LandingPage = () => {
               hermann.kuschke@gmail.com
             </a>
           </div>
+          <div className="tech-note">
+            Built with React
+          </div>
         </div>
       </div>
     </div>
